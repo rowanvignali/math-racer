@@ -5,11 +5,11 @@ clear
 
 % Engine Definition
 
-engine = simplerGameEngine([16, 9], "assets/SpriteSheet.png", 8, 8, 2, [50, 50, 50]);
+engine = simplerGameEngine([16, 9], "assets/images/SpriteSheet.png", 8, 8, 2, [50, 50, 50]);
 
 % Sprite Definitions
 
-spriteDefinitions = jsondecode(fileread("assets/spriteIndex.json"));
+spriteDefinitions = jsondecode(fileread("assets/images/spriteIndex.json"));
 
 for index = 1:length(spriteDefinitions)
     sprite = spriteDefinitions{index};
