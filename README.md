@@ -1,6 +1,7 @@
 ![Math Racer Title](/assets/images/mathRacerTitle.png)
 ## Math Racer
 A game I made with a friend for our final Fundamentals of Engineering project.<br><br>
+## YouTube video linked below
 [![SDP Video](https://img.youtube.com/vi/uWpe02nEQpg/maxresdefault.jpg)](https://www.youtube.com/watch?v=uWpe02nEQpg)
 <br>
 ## Project Goal
