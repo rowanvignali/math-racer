@@ -1,0 +1,147 @@
+[
+    {
+        "Intro to Addition": {
+            "Operators": ["+"],
+            "OperatorCount": [1],
+            "NumberRange": [1, 10],
+            "AlwaysPositive": true,
+            "Difficulty": 1,
+            "Level": 1,
+            "Background": "Dusk"
+        },
+        "Intro to Subtraction": {
+            "Operators": ["-"],
+            "OperatorCount": [1],
+            "NumberRange": [1, 20],
+            "AlwaysPositive": true,
+            "Difficulty": 1,
+            "Level": 1,
+            "Background": "Night"
+        },
+        "3-Digit Addition": {
+            "Operators": ["+"],
+            "OperatorCount": [1],
+            "NumberRange": [50, 100],
+            "AlwaysPositive": true,
+            "Difficulty": 2,
+            "Level": 2,
+            "Background": "Abyss"
+        }
+    },
+    {
+        "Advanced Addition": {
+            "Operators": ["+"],
+            "OperatorCount": [1, 2],
+            "NumberRange": [10, 100],
+            "AlwaysPositive": true,
+            "Difficulty": 2,
+            "Level": 3,
+            "Background": "Dusk"
+        },
+        "3-Digit Subtraction": {
+            "Operators": ["-"],
+            "OperatorCount": [1],
+            "NumberRange": [50, 150],
+            "AlwaysPositive": true,
+            "Difficulty": 2,
+            "Level": 2,
+            "Background": "Night"
+        },
+        "Review 1": {
+            "Operators": ["+", "-"],
+            "OperatorCount": [1],
+            "NumberRange": [50, 200],
+            "AlwaysPositive": true,
+            "Difficulty": 3,
+            "Level": 1,
+            "Background": "Abyss"
+        }
+    },
+    {
+        "Intro to Multiplication": {
+            "Operators": ["*"],
+            "OperatorCount": [1],
+            "NumberRange": [1, 100],
+            "AlwaysPositive": true,
+            "Difficulty": 2,
+            "Level": 1,
+            "Background": "Dusk"
+        },
+        "Intro to Division": {
+            "Operators": ["/"],
+            "OperatorCount": [1],
+            "NumberRange": [1, 30],
+            "AlwaysPositive": true,
+            "Difficulty": 2,
+            "Level": 1,
+            "Background": "Night"
+        },
+        "Intro to Negative Numbers": {
+            "Operators": ["-", "-"],
+            "OperatorCount": [1],
+            "NumberRange": [0, 150],
+            "AlwaysPositive": false,
+            "Difficulty": 2,
+            "Level": 3,
+            "Background": "Abyss"
+        }
+    },
+    {
+        "Advanced Multiplication": {
+            "Operators": ["*"],
+            "OperatorCount": [1, 3],
+            "NumberRange": [1, 250],
+            "AlwaysPositive": true,
+            "Difficulty": 3,
+            "Level": 2,
+            "Background": "Dusk"
+        },
+        "Advanced Division": {
+            "Operators": ["/"],
+            "OperatorCount": [1],
+            "NumberRange": [1, 150],
+            "AlwaysPositive": true,
+            "Difficulty": 3,
+            "Level": 2,
+            "Background": "Night"
+        },
+        "Review 2": {
+            "Operators": ["*", "/"],
+            "OperatorCount": [1],
+            "NumberRange": [1, 200],
+            "AlwaysPositive": true,
+            "Difficulty": 3,
+            "Level": 2,
+            "Background": "Abyss"
+        }
+    },
+    {
+        "Complex Multiplication": {
+            "Operators": ["*"],
+            "OperatorCount": [1, 2],
+            "NumberRange": [1, 400],
+            "AlwaysPositive": true,
+            "Difficulty": 3,
+            "Level": 3,
+            "Background": "Night"
+        },
+        "Complex Division": {
+            "Operators": ["/"],
+            "OperatorCount": [1],
+            "NumberRange": [1, 250],
+            "AlwaysPositive": true,
+            "Difficulty": 3,
+            "Level": 3,
+            "Background": "Abyss"
+        },
+        "Review 3": {
+            "Operators": ["+", "-", "*", "/"],
+            "OperatorCount": [1],
+            "NumberRange": [0, 250],
+            "AlwaysPositive": false,
+            "Difficulty": 3,
+            "Level": 3,
+            "Background": "Abyss"
+        }
+    }
+]

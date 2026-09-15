@@ -1,0 +1,63 @@
+{
+  "UnlockedCars": {
+    "RedCar": true,
+    "YellowCar": true,
+    "Motorcycle": true
+  },
+  "LevelData": [
+    {
+      "IntroToAddition": {
+        "Points": 8,
+        "Time": 7,
+        "Perfect": true
+      },
+      "IntroToSubtraction": {
+        "Points": 8,
+        "Time": 9,
+        "Perfect": true
+      },
+      "x3_DigitAddition": {
+        "Points": 10,
+        "Time": 35,
+        "Perfect": true
+      }
+    },
+    {
+      "Review1": {
+        "Points": 10,
+        "Time": 38,
+        "Perfect": true
+      },
+      "x3_DigitSubtraction": {
+        "Points": 10,
+        "Time": 21,
+        "Perfect": true
+      },
+      "AdvancedAddition": {
+        "Points": 11,
+        "Time": 38,
+        "Perfect": true
+      }
+    },
+    {},
+    {
+      "AdvancedMultiplication": {
+        "Points": 11,
+        "Time": 34,
+        "Perfect": true
+      }
+    },
+    {
+      "ComplexMultiplication": {
+        "Points": 9,
+        "Time": 148,
+        "Perfect": false
+      }
+    },
+    {
+      "NECESSARY": "uhhhhhhh idk why i need this but we ball"
+    }
+  ],
+  "SelectedCar": "Motorcycle",
+  "LastBackground": "Abyss"
+}
