@@ -1,7 +1,7 @@
 ![Math Racer Title](/assets/images/mathRacerTitle.png)
 ## Math Racer
 A game I made with a friend for our final Fundamentals of Engineering project.<br>
-![SDP Video](https://www.youtube.com/watch?v=uWpe02nEQpg)<br>
+[![SDP Video](https://img.youtube.com/vi/uWpe02nEQpg/0.jpg)](https://www.youtube.com/watch?v=uWpe02nEQpg)
 ## Project Goal
 The goal of the project was for each team to design and develop two game prototypes in MATLAB.<br>
 Our pitch (in the video above) was to a fictional company potentially selecting us to fund and continue developing our prototype.<br><br>
